@@ -10,7 +10,7 @@ Projects for Data Structures
 
  # Project 2 - Stacks and Priority Queues: 
  
-  - Data is read in from a file (Countries2.csv) and stored in Country objects, which are stored in different Priority Queues based on their Covid-19 CFR (case fatality rating). The countries are then pushed to a Stack in a certain order.
+  - Data is read in from a file (Countries2.csv) and stored in Country objects, which are stored in different Priority Queues based on their COVID-19 CFR (case fatality rating). The countries are then pushed to a Stack in a certain order.
   - Implemented Stack and Priority Queue Data Structures
 
 
