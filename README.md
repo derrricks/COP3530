@@ -8,7 +8,10 @@ Projects for Data Structures
   - Implemented Binary Search and Sequential Search
 
 
-Project 2:
-Project 3: 
-Project 4: 
-Project 5: 
+ # Project 2 - Stacks and Priority Queues: 
+ 
+ # Project 3 - Linked Lists: 
+ 
+ # Project 4 - Binary Search Trees: 
+ 
+ # Project 5 - Hash Tables: 
