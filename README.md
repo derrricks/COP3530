@@ -16,7 +16,9 @@ Projects for Data Structures
 
  # Project 3 - Linked Lists: 
 
-  - 
+  - Data is read in from a file (Countries3.csv) and stored in Country objects, which are stored in a Queue and Stack Data Structure. The Stack and Queue make use of Linked List to store and track the data.
+  - The Stack implements a double ended singly linked list.
+  - The Queue implements a double ended doubly linked list.
 
  # Project 4 - Binary Search Trees: 
 
