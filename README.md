@@ -1,5 +1,4 @@
-# COP3530 
-Projects for Data Structures
+COP3530 - Projects for Data Structures
 
 # Project 1 -  Array Searches and Sorts:
   
