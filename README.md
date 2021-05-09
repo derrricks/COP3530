@@ -27,4 +27,4 @@ COP3530 - Projects for Data Structures
  # Project 5 - Hash Tables: 
 
   -  Data is read in from a file (Countries5.csv) and stored in Country objects, which are stored in a Hash Table
-  -  Implements a Hash Table Data Structure including methods such as hashing, inserting, deleting, printing, and finding collsions free cells.
+  -  Implements a Hash Table Data Structure including methods such as hashing, inserting, deleting, printing, and finding collision free cells.
